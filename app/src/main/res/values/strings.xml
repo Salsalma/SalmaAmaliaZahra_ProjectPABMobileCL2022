@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Film</string>
+    <string name="movies">Film</string>
+    <string name="detail">Detail</string>
+    <string name="genre">Genre</string>
+    <string name="rate">Rate</string>
+</resources>
